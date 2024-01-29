@@ -1,0 +1,8 @@
+,Language - English,Unnamed: 1
+0,Article 300A,"This is the primary constitutional provision safeguarding the right to property. It states that ""no person shall be deprived of his property save by authority of law."""
+1,Article 19(1)(f),"This guarantees the right to acquire, hold, and dispose of property. It is considered a part of the fundamental right to freedom under Article 19."
+2,Land Acquisition Acts,These state-specific laws govern the process by which the government can acquire private land for public purposes. They generally require fair compensation and due process.
+3,Eminent Domain,"This is the legal power of the government to acquire private property for public use, even against the owner's will. However, it must be accompanied by due process and fair compensation."
+4,Tenancy Laws,These laws regulate the relationship between landlords and tenants. They often provide tenants with protection against eviction and rent increases.
+5,Property Ownership Rights,"Individuals can own various types of property, including land, buildings, vehicles, and personal belongings. Ownership rights generally include the right to possess, use, enjoy, and dispose of the property."
+6,Inheritance Laws,These laws determine how property is distributed after a person's death. They may vary depending on the individual's religion and personal laws.

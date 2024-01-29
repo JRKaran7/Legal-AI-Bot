@@ -1,0 +1,5 @@
+Language - English,Unnamed: 1
+"Prevention of Cruelty to Animals Act, 1960","Prohibits cruelty to all animals, including: Physical abuse or neglect, Abandonment, Overloading or improper transport, and use in fighting or other harmful activities"
+"Wildlife Protection Act, 1972","Protects endangered and threatened wildlife, including: Prohibiting hunting, poaching, and trade of protected species, Establishing protected areas and reserves, and regulating wildlife trade and management"
+"Performing Animals (Regulation and Control) Rules, 2001","Regulates the use of animals in performances and exhibitions to ensure their welfare, including: Minimum standards for housing, feeding, and veterinary care, Restrictions on performance times and activities, and Licensing and training requirements for handlers"
+The Constitution of India (Article 51A(g)),"Recognizes the duty of every citizen to protect and improve the environment, including animals."
